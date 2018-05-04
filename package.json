@@ -11,7 +11,7 @@
   "dependencies": {
     "ganache-cli": "^6.1.0",
     "mocha": "^5.1.0",
-    "solc": "^0.4.21",
+    "solc": "^0.4.23",
     "truffle-hdwallet-provider": "0.0.3",
     "web3": "^1.0.0-beta.26"
   }
